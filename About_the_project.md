@@ -3,6 +3,9 @@ This project is a comprehensive SQL-based exploration of COVID-19 data, focusing
 Key components of the project include:
 
 Common Table Expressions (CTEs): CTEs are used to structure complex queries, making it easier to perform cumulative calculations like rolling vaccination totals.
+
 Temporary Tables: Temporary tables are created to store intermediate results, such as vaccination percentages relative to the population, for more detailed analysis.
+
 Views: Views are used to simplify repeated queries and organize the data for better accessibility, allowing easy access to summarized data across multiple regions.
+
 This project offers insight into how SQL can be leveraged to handle large datasets, efficiently calculate cumulative statistics, and generate meaningful insights into vaccination efforts globally. The analysis provides a clear picture of how different regions have progressed in their vaccination campaigns and highlights the differences in impact on populations. The project ultimately demonstrates proficiency in SQL and its application in real-world data exploration scenarios.
